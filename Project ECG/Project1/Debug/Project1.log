@@ -1,0 +1,6 @@
+﻿  qsr.c
+c:\users\ejer\documents\dtu\5. semester\02131 indlejrede systemer e16\assignment 1 files\assigment 1\project ecg\project1\qsr.c(62): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+c:\users\ejer\documents\dtu\5. semester\02131 indlejrede systemer e16\assignment 1 files\assigment 1\project ecg\project1\qsr.c(147): warning C4098: 'peakDetection': 'void' function returning a value
+c:\users\ejer\documents\dtu\5. semester\02131 indlejrede systemer e16\assignment 1 files\assigment 1\project ecg\project1\qsr.c(134): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Ejer\Documents\DTU\5. Semester\02131 Indlejrede systemer E16\Assignment 1 Files\Assigment 1\Project ECG\Debug\ECG.exe
+  Project1.vcxproj -> C:\Users\Ejer\Documents\DTU\5. Semester\02131 Indlejrede systemer E16\Assignment 1 Files\Assigment 1\Project ECG\Debug\ECG.pdb (Partial PDB)
